@@ -1,9 +1,9 @@
-> :warning: This library should be considered unmaintained, but will remain here with and advisory to watch look at the current Issues. The the individuals that were party to creation of this library are currently unable to maintain this. If there are interested in helping update these libraries to 6.0 and continued maintinence through small amounts of contract work please contact me for a chat.
+> :warning: This library should be considered unmaintained, but will remain here with and advisory to watch and look at the current Issues. The individuals that were party to creation of this library are currently unable to maintain this. If there are interested in helping update these libraries to 6.0 and continued maintenance through small amounts of contract work please contact me for a chat.
 
 # digikey-kicad-library
 An atomic parts library for KiCad.
 
-The goal of the digikey-kicad-library library is to offer a collection of visually consistent and well defined parts that include assigned footprints.  The library is intended to augment KiCad's default library and give users another choice in library paradigm (meaning that it is *One Solution*, not *The Solution*).  It contains 1-to-1 symbol to footprint assignments to meet the needs of those who prefer that style.  It does not currently include the idea of a one symbol to many footprints as that defeats the purpose of having an orderable part number ready for the Bill of Materials.  
+The goal of the digikey-kicad-library library is to offer a collection of visually consistent and well-defined parts that include assigned footprints.  The library is intended to augment KiCad's default library and give users another choice in the library paradigm (meaning that it is *One Solution*, not *The Solution*).  It contains 1-to-1 symbol to footprint assignments to meet the needs of those who prefer that style.  It does not currently include the idea of a one symbol to many footprints as that defeats the purpose of having an orderable part number ready for the Bill of Materials.  
 
 Each part has been pre-loaded with extra information based on the www.digikey.com website.  Data includes:
 
